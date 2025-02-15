@@ -1,4 +1,4 @@
-# TD Multi-face Tracking with OpenCV and YuNet
+# TouchDesigner Multi-face Tracking with OpenCV and YuNet
 
 ## Overview  
 This repository provides implementations for multi-face tracking in TouchDesigner using two methods:  
