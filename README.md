@@ -13,3 +13,8 @@ In the folder face_detection_yunet you will find the TouchDesigner implementatio
 
 > Hardware Acceleration
 > Currently tries to use CUDA if you have openCV dnn CUDA support, will switch to CPU if not found
+
+
+OpenCV 
+The folder OpenCV uses Cascade classifier from OpenCV in TouchDesigner.
+>The TouchDesigner example uses detected faces and applies blur effect on faces
